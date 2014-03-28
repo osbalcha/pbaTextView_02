@@ -118,8 +118,7 @@
 		2E72E46D18BA8DE600472B47 /* pbaTextView */ = {
 			isa = PBXGroup;
 			children = (
-				2E72E47918BA8DE600472B47 /* AppDelegate.h */,
-				2E72E47A18BA8DE600472B47 /* AppDelegate.m */,
+				2ED6364A18E5871800594F39 /* App Delegate */,
 				2E1D555418C393860069A933 /* OutlineViewController.h */,
 				2E1D555518C393860069A933 /* OutlineViewController.m */,
 				2E72E47C18BA8DE600472B47 /* MainMenu.xib */,
@@ -157,6 +156,15 @@
 				2E72E48E18BA8DE600472B47 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2ED6364A18E5871800594F39 /* App Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				2E72E47918BA8DE600472B47 /* AppDelegate.h */,
+				2E72E47A18BA8DE600472B47 /* AppDelegate.m */,
+			);
+			name = "App Delegate";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
