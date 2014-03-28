@@ -76,6 +76,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2E1007B718E5968A00726313 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2E1D555418C393860069A933 /* OutlineViewController.h */,
+				2E1D555518C393860069A933 /* OutlineViewController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
 		2E72E45B18BA8DE600472B47 = {
 			isa = PBXGroup;
 			children = (
@@ -119,8 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				2ED6364A18E5871800594F39 /* App Delegate */,
-				2E1D555418C393860069A933 /* OutlineViewController.h */,
-				2E1D555518C393860069A933 /* OutlineViewController.m */,
+				2E1007B718E5968A00726313 /* Controllers */,
 				2E72E47C18BA8DE600472B47 /* MainMenu.xib */,
 				2E72E47F18BA8DE600472B47 /* Images.xcassets */,
 				2E72E46E18BA8DE600472B47 /* Supporting Files */,
